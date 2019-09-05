@@ -1,0 +1,2 @@
+Tests: compress grep link-with-shared
+Depends: @, @builddeps@
